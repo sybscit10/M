@@ -1,0 +1,5 @@
+LDA 4200H: Get the number 
+CMA : Complement the number
+ADJ, O1 H : Add one in the number
+STA 4300H : Store the result 
+HLT : Terminate program execution 
