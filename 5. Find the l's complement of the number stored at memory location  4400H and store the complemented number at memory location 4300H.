@@ -1,4 +1,0 @@
-LDA 4400B : Get the number
-CMA : Complement number
-STA 4300H : Store the result
-HLT : Terminate program execution
